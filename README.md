@@ -1,5 +1,5 @@
-<h1 align="center">HypAR Template</h1>
-<p>Setup Permaweb Apps ⚡️ HypAR Apps!</p>
+<h1 align="center">Connect Modal Example</h1>
+<p>Simple modal example built with HypAR</p>
 
 ## Contents
 
